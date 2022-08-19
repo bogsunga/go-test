@@ -1,7 +1,7 @@
 package main
 
 import (
-	"https://github.com/bogsunga/go-test/test-go/greet"
+	"github.com/bogsunga/go-test/blob/master/test-go/greet",
 	"fmt"
 )
 
