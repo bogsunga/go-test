@@ -1,3 +1,3 @@
-module go-test/greet/module/hello
+module github.com/bogsunga/go-test/tree/master/test-go/hello
 
 go 1.19
