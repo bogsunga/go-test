@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/bogsunga/go-test/blob/master/test-go/greet",
 	"fmt"
+
+	"github.com/bogsunga/go-test/blob/master/test-go/greet"
 )
 
 func main() {
